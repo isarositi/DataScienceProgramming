@@ -1,5 +1,5 @@
 # Programming for Data Science
-Group assignments for the Programming for Data Science course at KTH.
+Group assignments for the Programming for Data Science course at KTH in Fall 2022.
 
 * Assignment 1: Data Pre-Processing  
 
